@@ -15,6 +15,7 @@
 		1739CD8625293363000F99ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1739CD8425293363000F99ED /* LaunchScreen.storyboard */; };
 		1739CD9125293363000F99ED /* tipTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1739CD9025293363000F99ED /* tipTests.swift */; };
 		1739CD9C25293363000F99ED /* tipUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1739CD9B25293363000F99ED /* tipUITests.swift */; };
+		175C6F3B252E585B003CC6E4 /* tip-prework.gif in Resources */ = {isa = PBXBuildFile; fileRef = 175C6F3A252E585B003CC6E4 /* tip-prework.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1739CD9725293363000F99ED /* tipUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1739CD9B25293363000F99ED /* tipUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipUITests.swift; sourceTree = "<group>"; };
 		1739CD9D25293363000F99ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		175C6F3A252E585B003CC6E4 /* tip-prework.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "tip-prework.gif"; path = "../../../../Users/arpitindersingh/Movies/Kaptures/tip-prework.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		1739CD6D25293361000F99ED = {
 			isa = PBXGroup;
 			children = (
+				175C6F3A252E585B003CC6E4 /* tip-prework.gif */,
 				1739CD7825293362000F99ED /* tip */,
 				1739CD8F25293363000F99ED /* tipTests */,
 				1739CD9A25293363000F99ED /* tipUITests */,
@@ -234,6 +237,7 @@
 				1739CD8625293363000F99ED /* LaunchScreen.storyboard in Resources */,
 				1739CD8325293363000F99ED /* Assets.xcassets in Resources */,
 				1739CD8125293362000F99ED /* Main.storyboard in Resources */,
+				175C6F3B252E585B003CC6E4 /* tip-prework.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
